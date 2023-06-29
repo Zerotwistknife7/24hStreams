@@ -23,7 +23,7 @@
 <li><a href="https://www.24h-rennen.de/en/live-en/" target="_blank">Live Timing</a>
 </ul></p>
 <p>
-<u><h3>Other useful links</h3></u>
+<u><h2>Other useful links</h2></u>
 <ul>
 <li><a href="https://reddit.com/r/wec" target="_blank">r/WEC</a>
 <li><a href="https://raceday.watch/#sessions" target="_blank">raceday.watch</a>
