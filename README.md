@@ -1,7 +1,6 @@
 <p>
 <br>I will try to keep these pages updated with new streams when I locate them.
 <br>
-<br>
 <br><a href="https://raw.githack.com/Zerotwistknife7/24hStreams/main/Spa24h-Practice.html" target="_blank">Spa 24h Practice</a>
 <br><a href="https://raw.githack.com/Zerotwistknife7/24hStreams/main/Spa24h-Qualifying.html" target="_blank">Spa 24h Qualifying</a>
 <br><a href="https://raw.githack.com/Zerotwistknife7/24hStreams/main/Spa24h-Superpole.html" target="_blank">Spa 24h Superpole</a>
