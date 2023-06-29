@@ -32,4 +32,4 @@
 <li><a href="https://github.com/Zerotwistknife7" target="_blank">My github</a>
 </ul>
 <br>Created by <a href="https://discord.com/users/116767207651803139" target="_blank">Fivo™ on Discord</a>
-<br><font size="1"> Don't judge me, I'm just an IT Sysadmin and not a webdev.</font>
+<br><h6> Don't judge me, I'm just an IT Sysadmin and not a webdev.</h6>
