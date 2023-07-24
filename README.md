@@ -2,7 +2,7 @@
 <p>
 <u><h2>EAA Airventure</h2></u>
 <ul>
-<li><a href="https://raw.githack.com/Zerotwistknife7/24hStreams/main/AirVenture.html" target="_blank">Spa 24h Practice</a>
+<li><a href="https://raw.githack.com/Zerotwistknife7/24hStreams/main/AirVenture.html" target="_blank">EAA AirVenture</a>
 </ul></p>
 <p>  
 <u><h2>Spa 24h</h2></u>
